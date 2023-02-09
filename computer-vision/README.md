@@ -3,7 +3,7 @@ This folder contains notebook implementations of some seminal papers in the comp
 
 ## Architechtures
 - [AlexNet](https://github.com/pmocherla/paper-notebooks/blob/main/computer-vision/AlexNet.ipynb) | [Paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-- [GoogLeNet](https://github.com/pmocherla/paper-notebooks/computer-vision/GoogLeNet.ipynb) | [Paper](https://arxiv.org/abs/1409.4842)
+- [GoogLeNet](https://github.com/pmocherla/paper-notebooks/blob/main/computer-vision/GoogLeNet.ipynb) | [Paper](https://arxiv.org/abs/1409.4842)
 - [ResNet](https://github.com/pmocherla/paper-notebooks/blob/main/computer-vision/ResNet.ipynb) | [Paper](https://arxiv.org/abs/1512.03385)
 
 ## In Progress
